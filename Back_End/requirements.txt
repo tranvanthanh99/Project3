@@ -1,0 +1,25 @@
+# ----------------------
+# Flask
+# ----------------------
+flask
+flask-restful
+flask-socketio
+flask_cors
+
+# ----------------------
+# Database
+# ----------------------
+mongoengine
+
+# ----------------------
+# Production Server
+# ----------------------
+eventlet
+gunicorn
+
+# ----------------------
+# Others
+# ----------------------
+addict
+shortuuid
+
